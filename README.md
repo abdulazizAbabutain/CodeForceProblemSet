@@ -19,7 +19,7 @@ Where :
     - The root of the project will be *Codeforece*
 - 800Problems -> ***N*** Problems 
     - The sub files that contain number-problems the number **800** breasent the represent the level of the **easyest** and **3500** will be the **hardest** level. 
-- WaterMelon_4A -> ***Problem Name*** _ ***Problem ID***
+- WaterMelon_4A ->  ***Problem ID***_***Problem Name*** 
     - each problemSet will be naming as follow *the problem name*_*the problem ID*.
 - 4A.cpp -> ***Problem ID***.cpp
     - inside each problemSet will have (after beening solved) the solution code, if possbile will be explanation file to explain the process of the solution. 
